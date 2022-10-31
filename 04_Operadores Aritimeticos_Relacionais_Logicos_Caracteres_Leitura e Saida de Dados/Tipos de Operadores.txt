@@ -1,0 +1,30 @@
+*Operadores Aritimético*
+
+A-3;
+A+3;
+A*3;
+A/2;
+A%3;
+
+*Operadores Relacionais*
+A=3;igual
+A>3;maior
+A<3;menor
+A>=2;maior que
+A<=3;menor que
+A<>3;diferente
+
+*Operadores Lógicos*
+não(!)
+ou(or ou ||)
+e(and ou &&)
+XOU = retorna *VERDADEIRO* se os operadores forem *DIFERENTES*
+retorna *FALSO* se os operadores forem *IGUAI*
+
+nao(A=3);
+(A>3)ou(A<5)
+(A>3)e(A<5)
+(A>3)xou(A<5)
+
+*Operadores de caracteres*
+"São " + "Paulo"

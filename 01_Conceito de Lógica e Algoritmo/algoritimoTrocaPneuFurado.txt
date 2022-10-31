@@ -1,0 +1,11 @@
+1. Sializar a via.
+2. Abrir o porta malas do carro.
+3. Verificar se o carro possui macaco, estepe e chave de roda.
+4. Retira do carro o estepe, macaco e chave de roda. 
+5. Desparafusar a roda.
+2. Suspender o carro com o macaco.
+3. Retirar a roda com o pneu.
+4. Coloca o estepe.
+5. Abaixa o carro.
+6. Parafusa a roda.
+7. Guardar a chave de roda, macaco, triângulo e a roda com o pneu furado
