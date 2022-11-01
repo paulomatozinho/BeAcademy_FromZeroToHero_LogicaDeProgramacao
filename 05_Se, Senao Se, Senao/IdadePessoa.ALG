@@ -1,4 +1,4 @@
-algoritmo "idade"
+algoritmo "idadePessoa"
 //Menos de 18 = Menor de Idade
 //Maio de 18 e menor que 60 = Adulto
 //Mais que 60 = Idoso
